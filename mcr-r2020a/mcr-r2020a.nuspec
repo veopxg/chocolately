@@ -43,9 +43,9 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <iconUrl>https://cdn.jsdelivr.net/gh/teknowledgist/Chocolatey-packages@f5f5b9f6b5afc7dc7446a22954b865f21bd7d80c/Icons/matlab_icon.png</iconUrl>
     <copyright>Copyright 2001-2024 The MathWorks, Inc.</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
-    <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
+    <licenseUrl>https://github.com/veopxg/chocolately/blob/main/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
-    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
+    <projectSourceUrl>https://github.com/veopxg/chocolately/tree/main/mcr-r2020a</projectSourceUrl>
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
